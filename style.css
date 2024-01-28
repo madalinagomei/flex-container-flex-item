@@ -40,12 +40,13 @@ height:60px;
 .navbar .logo{
     font-size: x-large;
     font-weight: bold;
+    color: #fff;
 }
 
 .navbar a{
     color:#fff;
     text-decoration:none;
-    font-size:18px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -110,6 +111,9 @@ height:100%;
 .box i{
     margin-right: 10px;
 
+}
+.svg{
+    fill:#17e5f4;
 }
 @media (max-width: 768px){
     .header .container {
